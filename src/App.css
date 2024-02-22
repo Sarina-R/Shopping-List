@@ -1,0 +1,21 @@
+section {
+  justify-content: center;
+  align-items: center;
+}
+.form-row {
+  display: flex;
+  flex-direction: column;
+  margin: 1rem 0;
+}
+.row {
+  display: flex;
+  align-items: center;
+}
+h6 {
+  margin-left: 2rem;
+  font-size: 1rem;
+}
+.hover :hover {
+  cursor: pointer;
+  color: red;
+}
